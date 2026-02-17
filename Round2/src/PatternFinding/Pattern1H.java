@@ -1,4 +1,6 @@
-public class Pattern1 {
+package PatternFinding;
+
+public class Pattern1H {
 
     public static void main(String[] args) {
         int n = 3;
